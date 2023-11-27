@@ -254,7 +254,6 @@ input::placeholder {
 
 header img, input{
     animation: moveY 1s var(--delay) backwards;
-    animation: ;
 }
 
 main img, h2, a, p{
